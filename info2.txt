@@ -9,3 +9,5 @@ Commit #4 during squash activity6
 Commit #5 during squash activity6
 
 Commit #6 during squash activity6
+
+Commit #7 during squash activity
