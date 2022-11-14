@@ -29,3 +29,5 @@ Commit #14 - Started rebase dev 2 commit 1
 Commit #15 - Started rebase dev 2 commit 2
 
 Commit #16 - my fix (dev 2)
+
+Commit #17 - le partial fix dev 1
